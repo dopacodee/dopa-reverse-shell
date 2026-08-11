@@ -505,7 +505,7 @@ By using this project, you acknowledge that you are responsible for operating it
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣦⣤⣤⣤⣤⣴⣶⣷⣶⣤⣤⣤⣤⣴⣾⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠛⠛⠋⠉⠁⠀⠀⠀⠉⠉⠛⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-                    dopa code / reverse shell
+                          dopa code / reverse shell
 
                          ⚠ authorized testing only ⚠
 ```
