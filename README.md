@@ -509,3 +509,14 @@ By using this project, you acknowledge that you are responsible for operating it
 
                          ⚠ authorized testing only ⚠
 ```
+## connect
+
+<p align="center">
+  <a href="https://instagram.com/ju4nito_zzz">
+    <img src="https://img.shields.io/badge/Instagram-@dopacodee-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+<p align="center">
+  <sub>© dopa code · security research</sub>
+</p>
