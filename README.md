@@ -1,4 +1,4 @@
-# ☠ dopa code reverse shell
+# dopa code reverse shell
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.x-111111?style=for-the-badge&logo=python&logoColor=white">
